@@ -30,12 +30,12 @@
 
 ## Deprecated
 
-| 书名                      | Github 库                                                                   | 在线预览                                           | 原因                                                  |
-| ------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------- |
-| 《你不知道的 JavaScript》 | [You-Dont-Know-JS-zh](https://github.com/gdut-yy/You-Dont-Know-JS-zh)       | [doc-ydkjs](http://gdut_yy.gitee.io/doc-ydkjs)     | 原作者已在编写 2nd 版本                               |
-| 《轻量函数式 JavaScript》 | [Functional-Light-JS-zh](https://github.com/gdut-yy/Functional-Light-JS-zh) | [doc-fljs](http://gdut_yy.gitee.io/doc-fljs)       | 原作者已在编写 2nd 版本                               |
-| 《Effective Java 3rd》    | [EffectiveJava3-zh](https://github.com/gdut-yy/EffectiveJava3-zh)           | [doc-ej3](http://gdut_yy.gitee.io/doc-ej3)         | 社区已有大量翻译，不再重复造轮子                      |
-| 《OnJava8》               | [OnJava8-zh](https://github.com/gdut-yy/OnJava8-zh)                         | [doc-onjava8](http://gdut_yy.gitee.io/doc-onjava8) | 社区已有知名项目 https://github.com/LingCoder/OnJava8 |
+| 书名                      | Github 库                                                                   | 在线预览                                           | 原因                                                                  |
+| ------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------- |
+| 《你不知道的 JavaScript》 | [You-Dont-Know-JS-zh](https://github.com/gdut-yy/You-Dont-Know-JS-zh)       | [doc-ydkjs](http://gdut_yy.gitee.io/doc-ydkjs)     | 原作者正在编写 2nd 版本                                               |
+| 《轻量函数式 JavaScript》 | [Functional-Light-JS-zh](https://github.com/gdut-yy/Functional-Light-JS-zh) | [doc-fljs](http://gdut_yy.gitee.io/doc-fljs)       | 原作者正在编写 2nd 版本                                               |
+| 《Effective Java 3rd》    | [EffectiveJava3-zh](https://github.com/gdut-yy/EffectiveJava3-zh)           | [doc-ej3](http://gdut_yy.gitee.io/doc-ej3)         | 社区已有大量翻译，不再重复造轮子                                      |
+| 《OnJava8》               | [OnJava8-zh](https://github.com/gdut-yy/OnJava8-zh)                         | [doc-onjava8](http://gdut_yy.gitee.io/doc-onjava8) | 社区已有知名项目，不再重复造轮子 https://github.com/LingCoder/OnJava8 |
 
 ## 如何贡献
 
