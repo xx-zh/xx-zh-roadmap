@@ -27,6 +27,7 @@
 | 《Java 9 模块化开发》             | [Java-9-Modularity-zh](https://github.com/gdut-yy/Java-9-Modularity-zh)                             | [doc-java9](http://gdut_yy.gitee.io/doc-java9)         |
 | 《软件设计的哲学》                | [A-Philosophy-of-Software-Design-zh](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh) | [doc-aposd](http://gdut_yy.gitee.io/doc-aposd)         |
 | 《Security Patterns in Practice》 | [Security-Patterns-in-Practice-zh](https://github.com/gdut-yy/Security-Patterns-in-Practice-zh)     | [doc-spip](http://gdut_yy.gitee.io/doc-spip)           |
+| 《人件(原书第 3 版)》             | [Peopleware-zh](https://github.com/gdut-yy/Peopleware-zh)                                           | [doc-pw](http://gdut_yy.gitee.io/doc-pw)               |
 
 ## Deprecated
 
