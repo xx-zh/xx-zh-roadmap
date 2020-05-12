@@ -1,6 +1,6 @@
 # RoadMap
 
-![](./hero.png)
+<img src="./hero.png" width=24% />
 
 ## 项目背景
 
@@ -27,7 +27,7 @@
 | 《Java 9 模块化开发》             | [Java-9-Modularity-zh](https://github.com/gdut-yy/Java-9-Modularity-zh)                             | [doc-java9](http://gdut_yy.gitee.io/doc-java9)         |
 | 《软件设计的哲学》                | [A-Philosophy-of-Software-Design-zh](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh) | [doc-aposd](http://gdut_yy.gitee.io/doc-aposd)         |
 | 《Security Patterns in Practice》 | [Security-Patterns-in-Practice-zh](https://github.com/gdut-yy/Security-Patterns-in-Practice-zh)     | [doc-spip](http://gdut_yy.gitee.io/doc-spip)           |
-| 《人件(原书第 3 版)》             | [Peopleware-zh](https://github.com/gdut-yy/Peopleware-zh)                                           | [doc-pw](http://gdut_yy.gitee.io/doc-pw)               |
+| 《人件（原书第 3 版）》           | [Peopleware-zh](https://github.com/gdut-yy/Peopleware-zh)                                           | [doc-pw](http://gdut_yy.gitee.io/doc-pw)               |
 
 ## Deprecated
 
@@ -40,7 +40,11 @@
 
 ## 如何贡献
 
-如同一般的开源项目一样，我们鼓励您提 issue，有能力者，建议提 pr，如果您的 pr 被采纳，我们将会将你添加到项目 Contributors 栏目当中。
+如同其他社区开源项目一样，我们鼓励您提 issue！
+
+有能力者，我们鼓励您提 pr！
+
+如果您的 pr 被采纳，我们将会将你添加到项目 Contributors 栏目当中。
 
 ## License
 
