@@ -17,17 +17,18 @@
 
 ## LTS
 
-| 书名                              | Github 库                                                                                           | 在线预览                                               |
-| --------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 《领域驱动设计》                  | [Domain-Driven-Design-zh](https://github.com/gdut-yy/Domain-Driven-Design-zh)                       | [doc-ddd](http://gdut_yy.gitee.io/doc-ddd)             |
-| 《CSS 权威指南 4th》              | [CSS-The-Definitive-Guide-4th-zh](https://github.com/gdut-yy/CSS-The-Definitive-Guide-4th-zh)       | [doc-csstdg4](http://gdut_yy.gitee.io/doc-csstdg4)     |
-| 《架构整洁之道》                  | [Clean-Architecture-zh](https://github.com/gdut-yy/Clean-Architecture-zh)                           | [doc-cleanarch](http://gdut_yy.gitee.io/doc-cleanarch) |
-| 《代码整洁之道》                  | [Clean-Code-zh](https://github.com/gdut-yy/Clean-Code-zh)                                           | [doc-cleancode](http://gdut_yy.gitee.io/doc-cleancode) |
-| 《Java 8 函数式编程》             | [Java-8-Lambdas-zh](https://github.com/gdut-yy/Java-8-Lambdas-zh)                                   | [doc-java8](http://gdut_yy.gitee.io/doc-java8)         |
-| 《Java 9 模块化开发》             | [Java-9-Modularity-zh](https://github.com/gdut-yy/Java-9-Modularity-zh)                             | [doc-java9](http://gdut_yy.gitee.io/doc-java9)         |
-| 《软件设计的哲学》                | [A-Philosophy-of-Software-Design-zh](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh) | [doc-aposd](http://gdut_yy.gitee.io/doc-aposd)         |
-| 《Security Patterns in Practice》 | [Security-Patterns-in-Practice-zh](https://github.com/gdut-yy/Security-Patterns-in-Practice-zh)     | [doc-spip](http://gdut_yy.gitee.io/doc-spip)           |
-| 《人件（原书第 3 版）》           | [Peopleware-zh](https://github.com/gdut-yy/Peopleware-zh)                                           | [doc-pw](http://gdut_yy.gitee.io/doc-pw)               |
+| 书名                              | Github 库                                                                                               | 在线预览                                               |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 《领域驱动设计》                  | [Domain-Driven-Design-zh](https://github.com/gdut-yy/Domain-Driven-Design-zh)                           | [doc-ddd](http://gdut_yy.gitee.io/doc-ddd)             |
+| 《CSS 权威指南 4th》              | [CSS-The-Definitive-Guide-4th-zh](https://github.com/gdut-yy/CSS-The-Definitive-Guide-4th-zh)           | [doc-csstdg4](http://gdut_yy.gitee.io/doc-csstdg4)     |
+| 《架构整洁之道》                  | [Clean-Architecture-zh](https://github.com/gdut-yy/Clean-Architecture-zh)                               | [doc-cleanarch](http://gdut_yy.gitee.io/doc-cleanarch) |
+| 《代码整洁之道》                  | [Clean-Code-zh](https://github.com/gdut-yy/Clean-Code-zh)                                               | [doc-cleancode](http://gdut_yy.gitee.io/doc-cleancode) |
+| 《Java 8 函数式编程》             | [Java-8-Lambdas-zh](https://github.com/gdut-yy/Java-8-Lambdas-zh)                                       | [doc-java8](http://gdut_yy.gitee.io/doc-java8)         |
+| 《Java 9 模块化开发》             | [Java-9-Modularity-zh](https://github.com/gdut-yy/Java-9-Modularity-zh)                                 | [doc-java9](http://gdut_yy.gitee.io/doc-java9)         |
+| 《软件设计的哲学》                | [A-Philosophy-of-Software-Design-zh](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)     | [doc-aposd](http://gdut_yy.gitee.io/doc-aposd)         |
+| 《Security Patterns in Practice》 | [Security-Patterns-in-Practice-zh](https://github.com/gdut-yy/Security-Patterns-in-Practice-zh)         | [doc-spip](http://gdut_yy.gitee.io/doc-spip)           |
+| 《人件（原书第 3 版）》           | [Peopleware-zh](https://github.com/gdut-yy/Peopleware-zh)                                               | [doc-pw](http://gdut_yy.gitee.io/doc-pw)               |
+| 《实现领域驱动设计》              | [Implementing-Domain-Driven-Design-zh](https://github.com/gdut-yy/Implementing-Domain-Driven-Design-zh) | [doc-iddd](http://gdut_yy.gitee.io/doc-iddd)           |
 
 ## Deprecated
 
