@@ -27,8 +27,9 @@
 | 《Java 9 模块化开发》             | [Java-9-Modularity-zh](https://github.com/gdut-yy/Java-9-Modularity-zh)                                 | [doc-java9](http://gdut_yy.gitee.io/doc-java9)         |
 | 《软件设计的哲学》                | [A-Philosophy-of-Software-Design-zh](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)     | [doc-aposd](http://gdut_yy.gitee.io/doc-aposd)         |
 | 《Security Patterns in Practice》 | [Security-Patterns-in-Practice-zh](https://github.com/gdut-yy/Security-Patterns-in-Practice-zh)         | [doc-spip](http://gdut_yy.gitee.io/doc-spip)           |
-| 《人件（原书第 3 版）》           | [Peopleware-zh](https://github.com/gdut-yy/Peopleware-zh)                                               | [doc-pw](http://gdut_yy.gitee.io/doc-pw)               |
+| 《人件 3rd》                      | [Peopleware-zh](https://github.com/gdut-yy/Peopleware-zh)                                               | [doc-pw](http://gdut_yy.gitee.io/doc-pw)               |
 | 《实现领域驱动设计》              | [Implementing-Domain-Driven-Design-zh](https://github.com/gdut-yy/Implementing-Domain-Driven-Design-zh) | [doc-iddd](http://gdut_yy.gitee.io/doc-iddd)           |
+| 《重构 改善既有代码的设计 2nd》   | [Refactoring2-zh](https://github.com/gdut-yy/Refactoring2-zh)                                           | [doc-refact2](http://gdut_yy.gitee.io/doc-refact2)     |
 
 ## Deprecated
 
