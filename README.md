@@ -30,6 +30,16 @@
 | 《人件 3rd》                      | [Peopleware-zh](https://github.com/gdut-yy/Peopleware-zh)                                               | [doc-pw](http://gdut_yy.gitee.io/doc-pw)               |
 | 《实现领域驱动设计》              | [Implementing-Domain-Driven-Design-zh](https://github.com/gdut-yy/Implementing-Domain-Driven-Design-zh) | [doc-iddd](http://gdut_yy.gitee.io/doc-iddd)           |
 | 《重构 改善既有代码的设计 2nd》   | [Refactoring2-zh](https://github.com/gdut-yy/Refactoring2-zh)                                           | [doc-refact2](http://gdut_yy.gitee.io/doc-refact2)     |
+| 《黑客与画家》                    | [Hackers-Painters-zh](https://github.com/gdut-yy/Hackers-Painters-zh)                                   | [doc-hp](http://gdut_yy.gitee.io/doc-hp)               |
+| 《人月神话》                      | [The-Mythical-Man-Month-zh](https://github.com/gdut-yy/The-Mythical-Man-Month-zh)                       | [doc-tmmm](http://gdut_yy.gitee.io/doc-tmmm)           |
+
+## 社区推荐
+
+| 书名                      | Github 库                                                                    | 在线预览                                                                       |
+| ------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 《labuladong 的算法小抄》 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)         | [ 《labuladong 的算法小抄》](https://labuladong.gitbook.io/algo/)              |
+| 《OnJava8》               | [OnJava8](https://github.com/LingCoder/OnJava8)                              | [ 《OnJava8》](https://lingcoder.github.io/OnJava8/)                           |
+| 《深入理解 TypeScript》   | [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) | [ 《TypeScript Deep Dive》](https://jkchao.github.io/typescript-book-chinese/) |
 
 ## Deprecated
 
