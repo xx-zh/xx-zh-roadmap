@@ -31,16 +31,16 @@
 | 《实现领域驱动设计》              | [Implementing-Domain-Driven-Design-zh](https://github.com/gdut-yy/Implementing-Domain-Driven-Design-zh)     | [doc-iddd](http://gdut_yy.gitee.io/doc-iddd)           |
 | 《重构 改善既有代码的设计 2nd》   | [Refactoring2-zh](https://github.com/gdut-yy/Refactoring2-zh)                                               | [doc-refact2](http://gdut_yy.gitee.io/doc-refact2)     |
 | 《黑客与画家》                    | [Hackers-Painters-zh](https://github.com/gdut-yy/Hackers-Painters-zh)                                       | [doc-hp](http://gdut_yy.gitee.io/doc-hp)               |
-| 《人月神话》                      | [The-Mythical-Man-Month-zh](https://github.com/gdut-yy/The-Mythical-Man-Month-zh)                           | [doc-tmmm](http://gdut_yy.gitee.io/doc-tmmm)           |
 | 《JavaScript 权威指南第七版》     | [JavaScript-The-Definitive-Guide-7th-zh](https://github.com/gdut-yy/JavaScript-The-Definitive-Guide-7th-zh) | [doc-jstdg7](http://gdut_yy.gitee.io/doc-jstdg7)       |
 
 ## 社区推荐
 
-| 书名                      | Github 库                                                                    | 在线预览                                                                       |
-| ------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 《labuladong 的算法小抄》 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)         | [ 《labuladong 的算法小抄》](https://labuladong.gitbook.io/algo/)              |
-| 《OnJava8》               | [OnJava8](https://github.com/LingCoder/OnJava8)                              | [ 《OnJava8》](https://lingcoder.github.io/OnJava8/)                           |
-| 《深入理解 TypeScript》   | [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) | [ 《TypeScript Deep Dive》](https://jkchao.github.io/typescript-book-chinese/) |
+| 书名                                           | Github 库                                                                                          | 在线预览                                                                                                          |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 《labuladong 的算法小抄》                      | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)                               | [ 《labuladong 的算法小抄》](https://labuladong.gitbook.io/algo/)                                                 |
+| 《OnJava8》                                    | [OnJava8](https://github.com/LingCoder/OnJava8)                                                    | [ 《OnJava8》](https://lingcoder.github.io/OnJava8/)                                                              |
+| 《深入理解 TypeScript》                        | [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)                       | [ 《TypeScript Deep Dive》](https://jkchao.github.io/typescript-book-chinese/)                                    |
+| 《编写高质量代码改善 Python 程序的 91 个建议》 | [writing_solid_python_code_gitbook](https://github.com/L1nwatch/writing_solid_python_code_gitbook) | [ 《编写高质量代码改善 Python 程序的 91 个建议》](https://l1nwatch.gitbook.io/writing_solid_python_code_gitbook/) |
 
 ## Deprecated
 
